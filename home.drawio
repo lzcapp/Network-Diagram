@@ -1,1 +1,22 @@
-<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/></root></mxGraphModel>
+<mxfile host="Electron" modified="2023-11-12T15:32:17.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" version="22.0.3" etag="-972-agiI2qLTsf0adfr" type="device">
+  <diagram id="KHMHb_HekOx8Wtz281Yh" name="第 1 页">
+    <mxGraphModel dx="1434" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZmY6_l6aeNrQox6_WoO2-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmY6_l6aeNrQox6_WoO2-2" value="ISP Fiber Router" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.router;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="55" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmY6_l6aeNrQox6_WoO2-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.public_cloud;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="74.81" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmY6_l6aeNrQox6_WoO2-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="72.89" y="40" width="69.22" height="40.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
